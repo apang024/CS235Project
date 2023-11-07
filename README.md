@@ -6,6 +6,7 @@ Link: https://colab.research.google.com/drive/1yHBau067-yP7q6b1TWQAmEk7WgKNaRdW#
 
 Random Forest Model (Ryan Lu)
 
-Neural Network (Benjamin Denzler)
+Neural Network (Benjamin Denzler) 
+Link: https://colab.research.google.com/drive/1ybF_KNWGaUWlkc6fUdN8LA0k6rRPAW1k?usp=sharing
 
 Support Vector Machines (Charles Alaras)
