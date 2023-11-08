@@ -5,7 +5,7 @@ Decision Tree (Ashley Pang)
 Link: https://colab.research.google.com/drive/1yHBau067-yP7q6b1TWQAmEk7WgKNaRdW?usp=sharing
 
 Random Forest Model (Ryan Lu)  
-Link: https://colab.research.google.com/drive/1JVK7ev9lbMBmJnoxxdkfImerdMs1JOqK?usp=sharing
+Link: https://colab.research.google.com/drive/1K58NpGfjoAW_gonOTQTsoEaIax4jptT1?usp=sharing
 
 Neural Network (Benjamin Denzler)  
 Link: https://colab.research.google.com/drive/1ybF_KNWGaUWlkc6fUdN8LA0k6rRPAW1k?usp=sharing
