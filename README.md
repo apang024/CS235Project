@@ -10,5 +10,5 @@ Link: https://colab.research.google.com/drive/1JVK7ev9lbMBmJnoxxdkfImerdMs1JOqK?
 Neural Network (Benjamin Denzler)  
 Link: https://colab.research.google.com/drive/1ybF_KNWGaUWlkc6fUdN8LA0k6rRPAW1k?usp=sharing
 
-Support Vector Machines (Charles Alaras)
+Support Vector Machines (Charles Alaras)  
 Link: https://colab.research.google.com/drive/1ACq8dHsWYHtX7Ih1kpoWbdfhI_NXQwk7?usp=sharing
